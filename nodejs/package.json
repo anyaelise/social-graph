@@ -1,0 +1,11 @@
+{
+  "name": "social-graph",
+  "description": "Offline Syncing for client-side Web applications",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Anya Elise Marshall",
+  "dependencies": {
+	  "coffee-script": "1.7.1",
+	  "neo4j": "1.1.0"
+  }
+}
