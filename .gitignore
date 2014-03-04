@@ -1,4 +1,6 @@
 nodejs/node_modules/
+nodejs/test.coffee
+nodejs/test.js
 
 
 #################
